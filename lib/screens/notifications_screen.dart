@@ -15,19 +15,19 @@ class NotificationsScreen extends StatelessWidget {
         'title': 'MCA Admissions 2025-26',
         'date': 'February 20, 2025',
         'description': 'Admissions open for MCA program 2025-26. Apply online through DTE website.',
-        'url': 'https://mca.spit.ac.in/admissions'
+        'url': 'https://www.spit.ac.in/admissions/'
       },
       {
         'title': 'Workshop on AI & Machine Learning',
         'date': 'March 5, 2025',
         'description': 'Two-day workshop on Artificial Intelligence and Machine Learning applications.',
-        'url': 'https://mca.spit.ac.in/events'
+        'url': 'https://mca.spit.ac.in/index.php/events/'
       },
       {
         'title': 'Placement Drive - TCS',
         'date': 'March 15, 2025',
         'description': 'TCS campus recruitment drive for MCA students graduating in 2025.',
-        'url': 'https://mca.spit.ac.in/placements'
+        'url': 'https://mca.spit.ac.in/index.php/students/'
       },
       {
         'title': 'International Conference on Computing Technologies',
@@ -39,7 +39,7 @@ class NotificationsScreen extends StatelessWidget {
         'title': 'Alumni Meet 2025',
         'date': 'April 30, 2025',
         'description': 'Annual alumni meet for all MCA graduates. Register online.',
-        'url': 'https://mca.spit.ac.in/alumni'
+        'url': 'https://mca.spit.ac.in/index.php/alumni/'
       },
     ];
 
