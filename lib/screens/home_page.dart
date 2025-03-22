@@ -1,6 +1,5 @@
 // screens/home_page.dart
 import 'package:flutter/material.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 import '../constants/colors.dart';
 import 'faculty_screen.dart';
 import 'vision_mission_screen.dart';

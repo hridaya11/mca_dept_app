@@ -1,7 +1,6 @@
 // main.dart - Main entry point for the application
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 import 'constants/colors.dart';
 import 'screens/splash_screen.dart';
 
